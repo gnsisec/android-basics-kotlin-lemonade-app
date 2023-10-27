@@ -1,8 +1,5 @@
 Project: Lemonade App - Starter Code
 ==================================
-
-![Screenshot from 2023-10-27 16-04-19](https://github.com/gnsisec/android-basics-kotlin-lemonade-app/assets/13971631/91c45639-8014-465c-81ab-987d21148587)
-
 [Lemonade App - Starter Code.webm](https://github.com/gnsisec/android-basics-kotlin-lemonade-app/assets/13971631/de17803e-930a-4035-932a-28fe00b7736c)
 
 Starter code for the first independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
